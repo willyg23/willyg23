@@ -4,7 +4,7 @@
 
 
 <!--# 💫 About Me: -->
-🔐 Cyber Security Engineer @ John Deere <br>💻 SWE student @ Iowa State University <br>🌐 Former Full Stack Web Dev <br> 👨🏼‍💻 Looking for new challenges and opportunities for growth. <br>📈 Please take a look at my projects as well!
+🔐 Full-Stack Engineer @ John Deere <br>💻 SWE student @ Iowa State University <br>🌐 Former Full Stack Web Dev <br> 👨🏼‍💻 Looking for new challenges and opportunities for growth. <br>📈 Please take a look at my projects as well!
 
 
 🤝 Socials:
