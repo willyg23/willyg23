@@ -4,7 +4,7 @@
 
 
 <!--# 💫 About Me: -->
-🔐 Software Engineer (Security) @ John Deere <br>🌐 Former Full Stack Web Dev @ Iowa State University <br> 👨🏼‍💻 Always looking for new opportunities, please reach out! 
+🔐 Software Engineer (Security) @ John Deere <br>🌐 Former Full Stack Web Dev @ Iowa State University <br> 👨🏼‍💻 I'm always looking forward to new opportunities, please reach out! 
 
 
 🤝 Socials:
