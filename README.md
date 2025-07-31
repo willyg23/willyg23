@@ -3,11 +3,11 @@
 
 
 
-<!--# 💫 About Me: -->
+# 💫 About Me:
 Ask me about boxing, mma, chess, guns, or theology
 
-<!--# Career: -->
-☁️ Cloud Engineer @ Buildertrend <br> Former: <br> 🚜 John Deere <br> 🌪️ Iowa State University Web Dev <br> 👨🏼‍💻 If you're working on cool stuff, please reach out! 
+# Career:
+☁️ Cloud Engineer @ Buildertrend <br> Former: <br> 🚜 John Deere <br> 🌪️ Iowa State University Web Dev <br>
 
 
 🤝 Socials:
