@@ -10,7 +10,7 @@ Ask me about boxing, mma, chess, guns, or theology
 ☁️ Cloud Engineer @ Buildertrend <br> Former: <br> 🚜 John Deere <br> 🌪️ Iowa State University Web Dev <br>
 
 
-🤝 Socials:
+# 🤝 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-griner/) 
 
 <!--
