@@ -7,7 +7,7 @@
 Ask me about boxing, mma, chess, guns, or theology
 
 # Career:
-☁️ Cloud Engineer @ Buildertrend <br> Former: <br> 🚜 John Deere <br> 🌪️ Iowa State University Web Dev <br>
+☁️ Cloud Engineer @ Buildertrend <br> Former: <br> 🚜 Cloud Software Engineer John Deere <br> 🌪️ Iowa State University Web Dev <br>
 
 
 # 🤝 Socials:
