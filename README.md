@@ -4,7 +4,7 @@
 
 
 <!--# 💫 About Me: -->
-☁️ Cloud Engineer @ Buildertrend <br>🔐 Former: <br> @ John Deere <br>🌐 @ Iowa State University <br> 👨🏼‍💻 If you're working on cool stuff, please reach out! 
+☁️ Cloud Engineer @ Buildertrend <br> Former: <br>John Deere <br>Iowa State University <br> 👨🏼‍💻 If you're working on cool stuff, please reach out! 
 
 
 🤝 Socials:
