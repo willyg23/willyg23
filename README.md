@@ -1,11 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=8436F7&background=FFFFFF00&center=false&random=false&width=300&lines=William+Griner)](https://git.io/typing-svg)
 
-
-
-
-# 💫 About Me:
-Ask me about boxing, mma, chess, guns, or theology
-
 # Career:
 ☁️ Cloud Engineer @ Buildertrend <br> Former: <br> 🚜 Cloud Software Engineer @ John Deere <br> 🌪️ Web Dev @ Iowa State University <br>
 
